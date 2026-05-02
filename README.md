@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 Social Media User Segmentation using K-Means
 
 This project performs large-scale behavioral segmentation of social media users using unsupervised machine learning. The goal is to identify distinct user personas based on engagement patterns such as content creation, interaction, and content consumption.
@@ -74,4 +73,3 @@ Enabled behavioral insights for product targeting
 
 # social-media-user-segmentation
 Behavior-based user segmentation using K-Means clustering on large-scale social media data.This project focuses on segmenting social media users based on their behavioral patterns using unsupervised machine learning techniques &amp; builds an end-to-end clustering pipeline to identify meaningful user personas from large-scale engagement data.
->>>>>>> 9126e597759e6f4de25f85dc48760460fd20ca3c
