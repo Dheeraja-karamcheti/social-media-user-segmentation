@@ -60,6 +60,18 @@ Successfully segmented 1.5M+ users
 Generated interpretable user personas
 Enabled behavioral insights for product targeting
 =======
+## 📊 Results
+
+### Elbow Method
+![Elbow Plot](outputs/elbow_plot.png)
+
+### PCA Cluster Visualization
+![PCA Clusters](outputs/clusters_pca.png)
+
+### Behavioral Segmentation
+![Behavior Clusters](outputs/behavior_clusters.png)
+
+
 # social-media-user-segmentation
 Behavior-based user segmentation using K-Means clustering on large-scale social media data.This project focuses on segmenting social media users based on their behavioral patterns using unsupervised machine learning techniques &amp; builds an end-to-end clustering pipeline to identify meaningful user personas from large-scale engagement data.
 >>>>>>> 9126e597759e6f4de25f85dc48760460fd20ca3c
